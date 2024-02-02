@@ -1,0 +1,32 @@
+* {
+  background-color: thistle;
+}
+
+#quote-box {
+  border: 5px solid snow;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  padding: 10px;
+  transform: translate(-50%, -50%);
+  background-color: white;
+}
+
+#author {
+  text-align: end;
+  background-color: white;
+}
+
+#text {
+  background-color: white;
+}
+
+#new-quote {
+  padding: 5px;
+  margin: 10px;
+}
+
+#tweet-quote {
+  background-color: white;
+  border: 3px solid snow;
+}
